@@ -2,7 +2,7 @@
 name: Question
 about: Ask a question about using Bulk File Renamer
 title: "[QUESTION] Brief description of your question"
-labels: question
+labels: installation
 assignees: ritzmanndominic
 
 ---
