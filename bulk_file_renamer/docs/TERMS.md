@@ -87,8 +87,8 @@ These Terms of Use shall be governed by and construed in accordance with the law
 
 For questions about these Terms of Use or the Software, please contact:
 
-- GitHub: https://github.com/dominic-ritzmann/bulk-file-renamer
-- Issues: https://github.com/dominic-ritzmann/bulk-file-renamer/issues
+- [GitHub](https://github.com/ritzmanndominic/bulk_file_renamer)
+- [Discussions](https://github.com/ritzmanndominic/bulk_file_renamer/discussions)
 
 ## 15. Changes to Terms
 
