@@ -1,0 +1,32 @@
+TERMS & DISCLAIMER
+
+1. Use at Your Own Risk
+You are responsible for the files you select and the actions you perform. Always keep current backups. Preview and validation are provided to help avoid mistakes but cannot guarantee outcomes in all environments.
+
+2. Acceptable Use
+Do not use the Software to violate law or third‑party rights. You must comply with all applicable regulations.
+
+3. No Warranty
+The Software is provided "AS IS" without warranties of any kind. See the EULA for details.
+
+4. Limitation of Liability
+To the maximum extent permitted by law, the author is not liable for any indirect or consequential damages, data loss, or business interruption. Total liability is limited as described in the EULA.
+
+5. Backups and Safety
+• Use the optional confirmation, validation/simulation, and backup features.
+• Verify results in preview before applying changes.
+
+6. Governing Law
+These terms are governed by the laws of your country or state of residence. Mandatory consumer rights remain unaffected.
+
+
+
+
+
+
+
+
+
+
+
+

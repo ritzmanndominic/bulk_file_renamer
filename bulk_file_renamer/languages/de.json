@@ -1,0 +1,344 @@
+{
+  "app": {
+    "title": "Bulk Datei-Umbenenner",
+    "menu": {
+      "file": "&Datei",
+      "edit": "&Bearbeiten", 
+      "view": "&Ansicht",
+      "tools": "&Werkzeuge",
+      "help": "&Hilfe",
+      "new_profile": "Neues Profil...",
+      "open_folder": "&Ordner öffnen...",
+      "select_files": "&Dateien auswählen...",
+      "save_profile": "&Profil speichern...",
+      "load_profile": "&Profil laden...",
+      "recent_profiles": "Letzte &Profile",
+      "exit": "&Beenden",
+      "undo": "&Letzte Umbenennung rückgängig",
+      "clear_all": "&Alle Dateien löschen",
+      "refresh": "&Vorschau aktualisieren",
+      "show_file_count": "&Dateianzahl anzeigen",
+      "show_history": "&Verlauf anzeigen",
+      "batch_rename": "&Umbenennen",
+      "validate_names": "&Namen validieren",
+      "preview_changes": "&Änderungen im Explorer anzeigen",
+      "user_guide": "&Benutzerhandbuch",
+      "keyboard_shortcuts": "&Tastenkürzel",
+      "about": "&Über"
+    }
+  },
+  "main": {
+    "browse_folder": "Ordner durchsuchen",
+    "select_files": "Dateien auswählen",
+    "clear_all": "Alle löschen",
+    "rename_files": "Umbenennen",
+    "undo_last_rename": "Letzte Umbenennung rückgängig",
+    "files_selected": "Dateien ausgewählt",
+    "files_filtered": "Dateien gefiltert",
+    "rename_history": "Umbenennungsverlauf",
+    "back_to_history": "Zurück zum Verlauf"
+  },
+  "top_panel": {
+    "files": {
+      "title": "Files",
+      "duplicates_notification": "{count} doppelte Datei(en) nicht hinzugefügt",
+      "files_added_notification": "{added} Datei(en) hinzugefügt, {duplicates} Duplikat(e) übersprungen"
+    },
+    "naming": {
+      "title": "Naming",
+      "prefix": "Präfix:",
+      "suffix": "Suffix:",
+      "base_name": "Basisname:",
+      "start_number": "Startnummer:",
+      "extension_lock": "Erweiterung sperren",
+      "extension_lock_active": "Dateierweiterungen sperren (Aktiv)",
+      "extension_lock_disabled": "Dateierweiterungen sperren (Deaktiviert)"
+    },
+    "auto_clean": {
+      "title": "Namen automatisch bereinigen:",
+      "remove_special_chars": "Sonderzeichen entfernen",
+      "replace_spaces": "Leerzeichen ersetzen",
+      "convert_case": "Groß-/Kleinschreibung ändern",
+      "remove_accents": "Akzente entfernen",
+      "case_types": {
+        "lowercase": "kleinschreibung",
+        "titlecase": "Titel-Schreibweise",
+        "uppercase": "GROSSSCHREIBUNG"
+      }
+    },
+    "filters": {
+      "title": "Filters",
+      "extension_filter": "Erweiterungsfilter:",
+      "extension_placeholder": "Erweiterungen, z.B. jpg,png,txt",
+      "size_placeholder": "Größe",
+      "size_filter": "Größenfilter:",
+      "date_filter": "Datumsfilter:",
+      "status_filter": "Statusfilter:",
+      "size_operators": {
+        "greater_than": "Größer als",
+        "less_than": "Kleiner als",
+        "equal_to": "Gleich"
+      },
+      "size_units": {
+        "bytes": "Bytes",
+        "kb": "KB",
+        "mb": "MB",
+        "gb": "GB"
+      },
+      "date_operators": {
+        "before": "Vor",
+        "after": "Nach",
+        "on": "Am"
+      },
+      "status_options": {
+        "all": "Alle",
+        "renamed": "Umbenannt",
+        "unchanged": "Unverändert",
+        "error": "Fehler"
+      }
+    },
+    "preview": {
+      "old_name": "Alter Name",
+      "new_name": "Neuer Name", 
+      "status": "Status",
+      "sort_ascending": "↑",
+      "sort_descending": "↓",
+      "search_placeholder": "Dateien suchen...",
+      "search_label": "Suchen:",
+      "clear_search": "Löschen",
+      "export_preview": "Vorschau exportieren",
+      "export_dialog_title": "Vorschaudaten exportieren",
+      "export_format": "Exportformat:",
+      "export_formats": {
+        "csv": "CSV (Komma-getrennte Werte)",
+        "json": "JSON (JavaScript Object Notation)"
+      },
+      "export_success": "Vorschaudaten erfolgreich exportiert nach: {file}",
+      "export_failed": "Fehler beim Exportieren der Vorschaudaten: {error}"
+    },
+    "profiles": {
+      "title": "Profiles",
+      "profile": "Profil:",
+      "save": "Speichern",
+      "load": "Laden",
+      "delete": "Löschen",
+      "no_profiles": "Keine Profile verfügbar",
+      "select_profile_placeholder": "Profil auswählen..."
+    },
+    "regex": {
+      "title": "Regex-Regeln",
+      "search": "Suchen:",
+      "replace": "Ersetzen:",
+      "regex_toggle": "Regex",
+      "case_sensitive": "Groß-/Kleinschreibung beachten",
+      "global_replace": "Global"
+    }
+  },
+    "settings": {
+      "tabs": {
+        "settings": "Einstellungen",
+        "preview": "Vorschau",
+        "interface": "Oberfläche", 
+        "file_operations": "Dateioperationen",
+        "advanced": "Erweitert"
+      },
+    "preview": {
+      "title": "Vorschau-Anzeige",
+      "auto_refresh": "Vorschau bei Einstellungsänderungen automatisch aktualisieren",
+      "show_file_count": "Dateianzahl anzeigen",
+      "auto_resolve_conflicts": "Konflikte automatisch lösen (Zähler anhängen) (in Bearbeitung)"
+    },
+    "interface": {
+      "theme_settings": "Design-Einstellungen",
+      "theme": "Design:",
+      "themes": {
+        "default": "Standard",
+        "dark": "Dunkel",
+        "light": "Hell"
+      },
+      "ui_behavior": "Oberflächen-Verhalten",
+      "show_tooltips": "Tooltips anzeigen",
+      "confirm_rename": "Vor Umbenennung bestätigen"
+    },
+    "file_operations": {
+      "title": "Dateioperations-Verhalten",
+      "backup_before": "Backup vor Umbenennung erstellen",
+      "backup_location": "Backup-Speicherort:",
+      "browse": "Durchsuchen...",
+      "create_backup_folder": "Backup-Ordner automatisch erstellen falls nicht vorhanden",
+      "backup_warning_label": "Dies kann sehr viel Speicherplatz belegen. Nutzung auf eigene Gefahr.",
+      "backup_warning_dialog": "Warnung: Das Erstellen von Backups kann bei großen Dateien oder vielen Dateien erheblichen Speicherplatz belegen. Bitte mit Vorsicht fortfahren.",
+      "overwrite_existing": "Vorhandene Dateien ohne Nachfrage überschreiben",
+      "preserve_attributes": "Dateiattribute erhalten (Zeitstempel, Berechtigungen)"
+    },
+    "advanced": {
+      "title": "Erweiterte Optionen",
+      "case_sensitive_sorting": "Groß-/Kleinschreibung bei Sortierung beachten",
+      "log_operations": "Alle Umbenennungsvorgänge protokollieren",
+      "log_file": "Protokoll-Datei Speicherort:",
+      "max_recent_items": "Max. Letzte Elemente:",
+      "language": "Sprache:",
+      "languages": {
+        "en": "English",
+        "de": "Deutsch"
+      },
+      "sorting_settings": "Sortier-Einstellungen",
+      "logging_settings": "Protokoll-Einstellungen",
+      "recent_items": "Letzte Elemente",
+      "max_recent_items_label": "Max. letzte Elemente:",
+      "items_suffix": "Elemente"
+    },
+    "buttons": {
+      "save": "Einstellungen speichern",
+      "reset": "Auf Standard zurücksetzen", 
+      "cancel": "Änderungen verwerfen",
+      "browse": "Durchsuchen...",
+      "close": "Schließen"
+    }
+  },
+  "notifications": {
+    "profile_saved": "Profil '{name}' erfolgreich gespeichert!",
+    "profile_loaded": "Profil '{name}' erfolgreich geladen!",
+    "profile_deleted": "Profil '{name}' erfolgreich gelöscht!",
+    "profile_save_failed": "Fehler beim Speichern des Profils '{name}'",
+    "profile_load_failed": "Fehler beim Laden des Profils '{name}'",
+    "profile_delete_failed": "Fehler beim Löschen des Profils '{name}'",
+    "settings_saved": "Einstellungen erfolgreich gespeichert!",
+    "settings_save_failed": "Fehler beim Speichern der Einstellungen!",
+    "language_changed": "Sprache geändert zu {language}. Bitte starten Sie die Anwendung neu, um die Änderungen zu übernehmen.",
+    "no_files_to_simulate": "Keine Dateien zum Simulieren",
+    "validate_blocking_issues": "Validieren: {count} blockierende Probleme gefunden — Bericht für Details öffnen",
+    "validate_warnings": "Validieren: {count} Warnung(en) gefunden — Bericht für Details öffnen",
+    "validate_clean": "Validieren: Keine Probleme in {count} Datei(en) - bereit zum Umbenennen"
+  },
+  "dialogs": {
+    "save_profile": {
+      "title": "Profil speichern",
+      "message": "Name des Profils",
+      "default_name": "Mein Profil"
+    },
+    "load_profile": {
+      "title": "Profil laden",
+      "message": "Wählen Sie ein Profil zum Laden:"
+    },
+    "delete_profile": {
+      "title": "Profil löschen",
+      "message": "Sind Sie sicher, dass Sie das Profil '{name}' löschen möchten?",
+      "confirm": "Ja",
+      "cancel": "Nein"
+    },
+    "overwrite_profile": {
+      "title": "Profil existiert bereits",
+      "message": "Profil '{name}' existiert bereits. Möchten Sie es überschreiben?",
+      "confirm": "Ja",
+      "cancel": "Nein"
+    },
+    "reset_settings": {
+      "title": "Einstellungen zurücksetzen",
+      "message": "Sind Sie sicher, dass Sie alle Einstellungen auf die Standardwerte zurücksetzen möchten?",
+      "confirm": "Ja",
+      "cancel": "Nein"
+    },
+    "backup_location": "Backup-Speicherort auswählen",
+    "log_file": "Protokoll-Datei auswählen",
+    "confirm_rename": {
+      "title": "Umbenennung bestätigen",
+      "message": "Sind Sie sicher, dass Sie {count} Dateien umbenennen möchten?",
+      "confirm": "Ja, umbenennen",
+      "cancel": "Abbrechen"
+    }
+  },
+  "status": {
+    "renamed": "Umbenannt",
+    "unchanged": "Unverändert", 
+    "error": "Fehler",
+    "duplicate": "Duplikat",
+    "invalid": "Ungültig",
+    "done": "Fertig",
+    "undone": "Rückgängig",
+    "ready": "Bereit",
+    "conflict": "Konflikt",
+    "no_change": "Keine Änderung",
+    "extension_locked": "Erweiterung gesperrt"
+  },
+  "errors": {
+    "file_not_found": "Datei nicht gefunden: {file}",
+    "permission_denied": "Zugriff verweigert: {file}",
+    "invalid_name": "Ungültiger Dateiname: {name}",
+    "duplicate_name": "Doppelter Dateiname: {name}",
+    "backup_failed": "Backup fehlgeschlagen: {error}",
+    "rename_failed": "Umbenennung fehlgeschlagen: {error}"
+  },
+  "history": {
+    "details_placeholder": "Klicken Sie auf einen Verlaufseintrag, um Details zu sehen...",
+    "details_title": "Verlaufsdetails",
+    "rename_operation_details": "Umbenennungsvorgang Details",
+    "status_label": "Status:",
+    "number_of_files": "Anzahl der Dateien:",
+    "files_renamed": "Umbenannte Dateien:",
+    "full_path_details": "Vollständige Pfad-Details:",
+    "old_label": "Alt:",
+    "new_label": "Neu:",
+    "file_renamed_singular": "Datei umbenannt",
+    "files_renamed_plural": "Dateien umbenannt"
+  },
+  "ui": {
+    "loading": "Lädt…",
+    "no_files_found": "Keine Dateien gefunden",
+    "language_updating": "Sprache wird aktualisiert…",
+    "language_changed": "Sprache geändert",
+    "empty_hint": "Dateien oder Ordner hierher ziehen\n\nOder Dateien auswählen / Ordner durchsuchen verwenden",
+    "undo_selected": "Ausgewählte rückgängig",
+    "validate_simulate": "Validieren / Simulieren",
+    "remove_selected": "Ausgewählte entfernen",
+    "extension_lock_tooltip": "Wenn aktiviert, werden Dateierweiterungen (.jpg, .txt, etc.) automatisch beibehalten",
+    "tooltip_prefix": "Optional: Text vor dem Dateinamen hinzufügen",
+    "tooltip_suffix": "Optional: Text nach dem Dateinamen hinzufügen",
+    "tooltip_base_name": "Optional: Ersetzt den ursprünglichen Dateinamen",
+    "tooltip_start_number": "Erforderlich: Startnummer für Nummerierung (vermeidet Konflikte)",
+    "tooltip_clear_search": "Suche löschen",
+    "status_options": {
+      "ready": "Bereit",
+      "conflict": "Konflikt",
+      "no_change": "Keine Änderung",
+      "extension_locked": "Erweiterung gesperrt"
+    },
+    "size_operators": {
+      "greater_than": "Größer als",
+      "less_than": "Kleiner als",
+      "equal": "Gleich"
+    }
+  },
+  "validate": {
+    "title": "Validieren / Simulieren",
+    "save_report": "Bericht speichern...",
+    "save_report_title": "Bericht speichern",
+    "report_saved": "Bericht gespeichert unter {path}",
+    "report_save_failed": "Fehler beim Speichern des Berichts: {error}",
+    "report_title": "Simulationsbericht",
+    "report_total_files": "Gesamt zu verarbeitende Dateien",
+    "report_blocking_issues": "Blockierende Probleme",
+    "report_warnings": "Warnungen",
+    "report_file_details": "Dateidetails",
+    "report_no_issues": "Keine Probleme erkannt - Umbenennungsvorgang sollte erfolgreich sein.",
+    "report_blocking_issues_found": "Blockierende Probleme ({count})",
+    "report_warnings_found": "Warnungen ({count})",
+    "report_issue_prefix": "❌",
+    "report_warning_prefix": "⚠️",
+    "warning_target_exists": "Ziel existiert bereits"
+  },
+  "help": {
+    "user_guide": {
+      "title": "Benutzerhandbuch",
+      "content": "Bulk Datei-Umbenenner - Benutzerhandbuch\n\n1. DATEIEN HINZUFÜGEN\n   • Klicken Sie auf \"Ordner durchsuchen\", um alle Dateien aus einem Ordner hinzuzufügen\n   • Klicken Sie auf \"Dateien auswählen\", um einzelne Dateien zu wählen\n   • Dateien erscheinen in der Vorschautabelle\n\n2. BENENNUNGSMUSTER\n   • Präfix: Text, der vor dem Dateinamen hinzugefügt wird\n   • Suffix: Text, der nach dem Dateinamen hinzugefügt wird (vor der Erweiterung)\n   • Basisname: Ersetzt den gesamten Dateinamen\n   • Startnummer: Startnummer für sequenzielle Benennung\n   • Erweiterung sperren: Ursprüngliche Dateierweiterungen beibehalten\n\n3. DATEIEN FILTERN\n   • Erweiterungsfilter: Nach Dateitypen filtern (z.B. jpg,png,txt)\n   • Größenfilter: Nach Dateigröße filtern (z.B. >1MB, <500KB)\n   • Datumsfilter: Nach Erstellungsdatum filtern (z.B. vor 2023-01-01)\n   • Statusfilter: Nur bestimmte Umbenennungsstatus anzeigen\n\n4. VORSCHAU UND UMBENENNEN\n   • Vorschau zeigt alter Name → neuer Name\n   • Status zeigt an, ob Umbenennung erfolgreich sein wird\n   • Klicken Sie auf \"Umbenennen\", um Änderungen anzuwenden\n   • Verwenden Sie \"Rückgängig\", um die letzte Umbenennung rückgängig zu machen\n\n5. PROFILE\n   • Aktuelle Einstellungen als Profil speichern\n   • Gespeicherte Profile für schnelle Einrichtung laden\n   • Profile merken sich alle Einstellungen und Filter\n\n6. EINSTELLUNGEN\n   • Anwendungseinstellungen konfigurieren\n   • Sprache ändern (English/Deutsch)\n   • Vorschau-Limits und Verhalten anpassen\n\n7. TASTENKÜRZEL\n   • Ctrl+O: Ordner öffnen\n   • Ctrl+Shift+O: Dateien auswählen\n   • Ctrl+S: Profil speichern\n   • Ctrl+L: Profil laden\n   • Ctrl+R: Dateien umbenennen\n   • F5: Vorschau aktualisieren\n   • Ctrl+Z: Letzte Umbenennung rückgängig\n   • Ctrl+Shift+C: Alle Dateien löschen\n\nFür weitere Hilfe besuchen Sie die Anwendungseinstellungen oder kontaktieren Sie den Support."
+    },
+    "keyboard_shortcuts": {
+      "title": "Tastenkürzel",
+      "content": "Tastenkürzel\n\nDATEI-MENÜ:\nCtrl+N          Neues Profil\nCtrl+O          Ordner öffnen\nCtrl+Shift+O    Dateien auswählen\nCtrl+S          Profil speichern\nCtrl+L          Profil laden\nCtrl+Q          Beenden\n\nBEARBEITEN-MENÜ:\nCtrl+Z          Letzte Umbenennung rückgängig\nCtrl+Shift+C    Alle Dateien löschen\n\nANSICHT-MENÜ:\nF5              Vorschau aktualisieren\nCtrl+F          Dateianzahl umschalten\nCtrl+H          Verlaufsbereich umschalten\n\nWERKZEUGE-MENÜ:\nCtrl+R          Dateien umbenennen\nCtrl+V          Namen validieren\nCtrl+P          Änderungen in Vorschau anzeigen\n\nHILFE-MENÜ:\nF1              Benutzerhandbuch\nCtrl+?          Tastenkürzel\n\nALLGEMEIN:\nEscape          Dialoge schließen\nEnter           Aktionen bestätigen\nTab             Felder navigieren"
+    },
+    "about": {
+      "title": "Über Bulk Datei-Umbenenner",
+      "content": "Bulk Datei-Umbenenner\nVersion 1.0\nEin leistungsstarkes Tool zum gleichzeitigen Umbenennen mehrerer Dateien mit erweiterten Filter- und Vorschaufunktionen.\n\nFunktionen:\n• Stapel-Umbenennung von Dateien mit benutzerdefinierten Mustern\n• Erweiterte Filterung nach Erweiterung, Größe und Datum\n• Live-Vorschau der Änderungen\n• Profilverwaltung für gespeicherte Einstellungen\n• Mehrsprachige Unterstützung (English/Deutsch)\n• Rückgängig-Funktionalität\n• Umfassende Validierung\n\nCopyright © 2024 Dominic Ritzmann\nAlle Rechte vorbehalten.\n\nDiese Software ist unter der Bulk File Renamer Lizenz lizenziert.\nSie können diese Software für private und berufliche Zwecke nutzen,\neinschließlich des Verkaufs von mit dieser Software bearbeiteten Dateien.\nSie dürfen jedoch NICHT die Software modifizieren, verändern oder abgeleitete\nWerke erstellen, oder die Software selbst verkaufen oder vertreiben.\nSiehe LICENSE-Datei für vollständige Lizenzbedingungen.\n\nGitHub: https://github.com/dominic-ritzmann/bulk-file-renamer"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "preview_auto_refresh": true,
+  "auto_resolve_conflicts": false,
+  "default_prefix": "",
+  "default_suffix": "",
+  "default_base_name": "",
+  "default_start_number": 1,
+  "show_tooltips": true,
+  "confirm_before_rename": true,
+  "show_file_count": true,
+  "backup_before_rename": false,
+  "backup_location": "C:/Users/Dominic Ritzmann/OneDrive/Desktop/Python",
+  "overwrite_existing": false,
+  "create_backup_folder": false,
+  "case_sensitive_sorting": true,
+  "preserve_file_attributes": true,
+  "log_operations": false,
+  "log_file": "C:/Users/Dominic Ritzmann/OneDrive/Desktop/Python/bulk_renamer.log",
+  "recent_folders": [
+    "C:/Users/Dominic Ritzmann/OneDrive/Desktop/Python/rename_folder_files"
+  ],
+  "recent_profiles": [
+    "My Profile",
+    "Ne wprof"
+  ],
+  "max_recent_items": 1,
+  "history_file": "history.json",
+  "theme": "Dark",
+  "language": "de",
+  "preview_max_files": 10,
+  "_metadata": {
+    "version": "1.0",
+    "last_updated": "2025-10-25T16:21:29.220668"
+  }
+}

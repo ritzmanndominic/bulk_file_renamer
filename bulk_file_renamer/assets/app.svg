@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1e63e9"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect x="32" y="32" width="448" height="448" rx="56" fill="url(#g)"/>
+  <!-- Folder tab style to hint at files -->
+  <path d="M96 168c0-22 18-40 40-40h92l28 24h120c22 0 40 18 40 40v32H96z" fill="#144ccf" opacity="0.25"/>
+  <!-- Paper/file -->
+  <path d="M160 160h152l56 56v196c0 15-13 28-28 28H160c-15 0-28-13-28-28V188c0-15 13-28 28-28z" fill="#ffffff" filter="url(#shadow)"/>
+  <path d="M312 160v40c0 9 7 16 16 16h40" fill="none" stroke="#e7f0ff" stroke-width="22"/>
+  <!-- Rename arrows (bidirectional) -->
+  <path d="M184 280h144" stroke="#166534" stroke-width="22" stroke-linecap="round"/>
+  <path d="M296 254l44 26-44 26" fill="none" stroke="#166534" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M184 344h144" stroke="#0ea5e9" stroke-width="22" stroke-linecap="round"/>
+  <path d="M216 318l-44 26 44 26" fill="none" stroke="#0ea5e9" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Subtle corner gloss -->
+  <circle cx="120" cy="120" r="60" fill="#ffffff" opacity="0.06"/>
+</svg>
+
+
+
+
+
+
+
+
+
+

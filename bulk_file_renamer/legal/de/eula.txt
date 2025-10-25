@@ -1,0 +1,52 @@
+ENDBENUTZER-LIZENZVEREINBARUNG (EULA)
+
+Bitte lesen Sie diese Endbenutzer-Lizenzvereinbarung ("Vereinbarung") sorgfältig, bevor Sie Bulk Datei‑Umbenenner (die "Software") verwenden.
+
+1. Zustimmung
+Durch Installation oder Nutzung der Software erklären Sie sich mit dieser Vereinbarung einverstanden. Wenn Sie nicht zustimmen, installieren oder nutzen Sie die Software nicht.
+
+2. Lizenzgewährung
+Vorbehaltlich der Einhaltung dieser Vereinbarung erhalten Sie eine nicht exklusive, nicht übertragbare Lizenz, die Software auf Ihren Geräten für private oder kommerzielle Zwecke zu nutzen.
+
+3. Eigentum
+Die Software wird lizenziert, nicht verkauft. Alle Rechte verbleiben beim Autor. Die Software kann Komponenten Dritter enthalten, die deren eigenen Lizenzen unterliegen.
+
+4. Zulässige/Unzulässige Nutzung
+Sie dürfen: (a) die Software zum Verarbeiten von Dateien nutzen; (b) angemessene Sicherungskopien erstellen.
+Sie dürfen nicht: (a) die Software rückentwickeln, außer soweit gesetzlich erlaubt; (b) Hinweise entfernen; (c) die Software rechtswidrig einsetzen oder Rechte Dritter verletzen.
+
+5. Backups und irreversible Aktionen
+Das Umbenennen kann destruktiv sein. Sie sind allein verantwortlich für ausreichende Backups. Nutzen Sie die Sicherheitsfunktionen (Vorschau, Bestätigung, Validierung, Backup).
+
+6. Updates
+Der Autor kann Updates bereitstellen. Updates können Funktionen ändern oder entfernen. Diese Vereinbarung gilt auch für Updates, sofern keine neue Lizenz beiliegt.
+
+7. Gewährleistungsausschluss
+DIE SOFTWARE WIRD "WIE BESEHEN" UND "WIE VERFÜGBAR" OHNE JEGLICHE GEWÄHRLEISTUNG BEREITGESTELLT.
+
+8. Haftungsbeschränkung
+IM GESETZLICH ZULÄSSIGEN UMFANG HAFTET DER AUTOR NICHT FÜR INDIREKTE ODER FOLGESCHÄDEN, DATENVERLUST ODER ENTGANGENEN GEWINN. DIE GESAMTHAFTUNG IST AUF DEN BETRAG BEGRENZT, DEN SIE (FALLS VORHANDEN) IN DEN LETZTEN 12 MONATEN FÜR DIE SOFTWARE BEZAHLT HABEN.
+
+9. Freistellung
+Sie stellen den Autor von Ansprüchen frei, die sich aus Ihrer Nutzung der Software oder einem Verstoß gegen diese Vereinbarung ergeben.
+
+10. Beendigung
+Bei Verstoß endet diese Vereinbarung automatisch. Sie müssen die Nutzung einstellen und die Software deinstallieren.
+
+11. Anwendbares Recht
+Es gilt das Recht Ihres Wohnsitzstaates bzw. -landes. Zwingende Verbraucherschutzrechte bleiben unberührt.
+
+12. Kontakt
+Anfragen bitte über das Projekt-Repository oder die Store-Seite.
+
+
+
+
+
+
+
+
+
+
+
+

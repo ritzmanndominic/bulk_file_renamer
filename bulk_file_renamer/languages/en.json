@@ -1,0 +1,350 @@
+{
+  "app": {
+    "title": "Bulk File Renamer",
+    "menu": {
+      "file": "&File",
+      "edit": "&Edit", 
+      "view": "&View",
+      "tools": "&Tools",
+      "help": "&Help",
+      "new_profile": "New Profile...",
+      "open_folder": "&Open Folder...",
+      "select_files": "&Select Files...",
+      "save_profile": "&Save Profile...",
+      "load_profile": "&Load Profile...",
+      "recent_profiles": "Recent &Profiles",
+      "exit": "E&xit",
+      "undo": "&Undo Last Rename",
+      "clear_all": "&Clear All Files",
+      "refresh": "&Refresh Preview",
+      "show_file_count": "Show &File Count",
+      "show_history": "Show &History Panel",
+      "batch_rename": "&Rename",
+      "validate_names": "&Validate Names",
+      "preview_changes": "&Preview Changes in Explorer",
+      "user_guide": "&User Guide",
+      "keyboard_shortcuts": "&Keyboard Shortcuts",
+      "about": "&About"
+    }
+  },
+  "legal": {
+    "eula_title": "End User License Agreement",
+    "privacy_title": "Privacy Policy",
+    "terms_title": "Terms & Disclaimer",
+    "open_external": "Open External",
+    "close": "Close"
+  },
+  "main": {
+    "browse_folder": "Browse Folder",
+    "select_files": "Select Files",
+    "clear_all": "Clear All",
+    "rename_files": "Rename",
+    "undo_last_rename": "Undo Last Rename",
+    "files_selected": "Files Selected",
+    "files_filtered": "Files Filtered",
+    "rename_history": "Rename History",
+    "back_to_history": "Back to History"
+  },
+  "top_panel": {
+    "files": {
+      "title": "Files",
+      "duplicates_notification": "{count} duplicate file(s) not added",
+      "files_added_notification": "{added} file(s) added, {duplicates} duplicate(s) skipped"
+    },
+    "naming": {
+      "title": "Naming",
+      "prefix": "Prefix:",
+      "suffix": "Suffix:",
+      "base_name": "Base Name:",
+      "start_number": "Start Number:",
+      "extension_lock": "Lock Extension",
+      "extension_lock_active": "Lock File Extensions (Active)",
+      "extension_lock_disabled": "Lock File Extensions (Disabled)"
+    },
+    "auto_clean": {
+      "title": "Auto-clean Names:",
+      "remove_special_chars": "Remove Special Chars",
+      "replace_spaces": "Replace Spaces",
+      "convert_case": "Convert Case",
+      "remove_accents": "Remove Accents",
+      "case_types": {
+        "lowercase": "lowercase",
+        "titlecase": "Title Case",
+        "uppercase": "UPPERCASE"
+      }
+    },
+    "filters": {
+      "title": "Filters",
+      "extension_filter": "Extension Filter:",
+      "extension_placeholder": "Extensions, e.g., jpg,png,txt",
+      "size_placeholder": "Size",
+      "size_filter": "Size Filter:",
+      "date_filter": "Date Filter:",
+      "status_filter": "Status Filter:",
+      "size_operators": {
+        "greater_than": "Greater than",
+        "less_than": "Less than",
+        "equal_to": "Equal to"
+      },
+      "size_units": {
+        "bytes": "Bytes",
+        "kb": "KB",
+        "mb": "MB",
+        "gb": "GB"
+      },
+      "date_operators": {
+        "before": "Before",
+        "after": "After",
+        "on": "On"
+      },
+      "status_options": {
+        "all": "All",
+        "renamed": "Renamed",
+        "unchanged": "Unchanged",
+        "error": "Error"
+      }
+    },
+    "preview": {
+      "old_name": "Old Name",
+      "new_name": "New Name", 
+      "status": "Status",
+      "sort_ascending": "↑",
+      "sort_descending": "↓",
+      "search_placeholder": "Search files...",
+      "search_label": "Search:",
+      "clear_search": "Clear",
+      "export_preview": "Export Preview",
+      "export_dialog_title": "Export Preview Data",
+      "export_format": "Export Format:",
+      "export_formats": {
+        "csv": "CSV (Comma Separated Values)",
+        "json": "JSON (JavaScript Object Notation)"
+      },
+      "export_success": "Preview data exported successfully to: {file}",
+      "export_failed": "Failed to export preview data: {error}"
+    },
+    "profiles": {
+      "title": "Profiles",
+      "profile": "Profile:",
+      "save": "Save",
+      "load": "Load",
+      "delete": "Delete",
+      "no_profiles": "No profiles available",
+      "select_profile_placeholder": "Select Profile..."
+    }
+  },
+    "settings": {
+      "tabs": {
+        "settings": "Settings",
+        "preview": "Preview",
+        "interface": "Interface", 
+        "file_operations": "File Operations",
+        "advanced": "Advanced"
+      },
+    "preview": {
+      "title": "Preview Display",
+      "auto_refresh": "Auto-refresh preview on setting changes",
+      "show_file_count": "Show file count row",
+      "auto_resolve_conflicts": "Auto-resolve conflicts (append counter) (in progress)"
+    },
+    "interface": {
+      "theme_settings": "Theme Settings",
+      "theme": "Theme:",
+      "themes": {
+        "default": "Default",
+        "dark": "Dark",
+        "light": "Light"
+      },
+      "ui_behavior": "UI Behavior",
+      "show_tooltips": "Show tooltips",
+      "confirm_rename": "Confirm before renaming files"
+    },
+    "file_operations": {
+      "title": "File Operation Behavior",
+      "backup_before": "Create backup before renaming",
+      "backup_location": "Backup Location:",
+      "browse": "Browse...",
+      "create_backup_folder": "Create backup folder automatically if it doesn't exist",
+      "backup_warning_label": "This may take up excessive space. Use at your own risk.",
+      "backup_warning_dialog": "Warning: Creating backups can consume significant disk space when renaming large files or many files. Proceed with caution.",
+      "preserve_attributes": "Preserve file attributes (timestamps, permissions)"
+    },
+    "advanced": {
+      "title": "Advanced Options",
+      "case_sensitive_sorting": "Case-sensitive sorting in preview",
+      "log_operations": "Log all rename operations",
+      "log_file": "Log File Location:",
+      "max_recent_items": "Max Recent Items:",
+      "language": "Language:",
+      "languages": {
+        "en": "English",
+        "de": "Deutsch"
+      },
+      "sorting_settings": "Sorting Settings",
+      "logging_settings": "Logging Settings",
+      "recent_items": "Recent items",
+      "max_recent_items_label": "Max recent profiles:",
+      "items_suffix": "profiles"
+    },
+    "buttons": {
+      "save": "Save Settings",
+      "reset": "Reset to Defaults", 
+      "cancel": "Cancel Changes",
+      "browse": "Browse...",
+      "close": "Close"
+    }
+  },
+  "notifications": {
+    "profile_saved": "Profile '{name}' saved successfully!",
+    "profile_loaded": "Profile '{name}' loaded successfully!",
+    "profile_deleted": "Profile '{name}' deleted successfully!",
+    "profile_save_failed": "Failed to save profile '{name}'",
+    "profile_load_failed": "Failed to load profile '{name}'",
+    "profile_delete_failed": "Failed to delete profile '{name}'",
+    "settings_saved": "Settings saved successfully!",
+    "settings_save_failed": "Failed to save settings!",
+    "language_changed": "Language changed to {language}. Please restart the application to apply changes.",
+    "rename_finished_success": "Rename finished: {count} file(s) renamed",
+    "rename_finished_warning": "Rename finished: {success} success, {conflicts} conflict(s)",
+    "rename_finished_error": "Rename finished: {success} success, {errors} error(s), {conflicts} conflict(s)",
+    "undo_finished_success": "Undo finished: {restored} file(s) restored",
+    "undo_finished_error": "Undo finished: {restored} restored, {errors} error(s)",
+    "validate_blocking_issues": "Validate: {count} blocking issue(s) found — open report for details",
+    "validate_warnings": "Validate: {count} warning(s) found — open report for details",
+    "validate_clean": "Validate: no issues in {count} file(s) - ready to rename"
+  },
+  "dialogs": {
+    "save_profile": {
+      "title": "Save Profile",
+      "message": "Name of Profile",
+      "default_name": "My Profile"
+    },
+    "load_profile": {
+      "title": "Load Profile",
+      "message": "Select a profile to load:"
+    },
+    "delete_profile": {
+      "title": "Delete Profile",
+      "message": "Are you sure you want to delete profile '{name}'?",
+      "confirm": "Yes",
+      "cancel": "No"
+    },
+    "overwrite_profile": {
+      "title": "Profile Exists",
+      "message": "Profile '{name}' already exists. Do you want to overwrite it?",
+      "confirm": "Yes",
+      "cancel": "No"
+    },
+    "reset_settings": {
+      "title": "Reset Settings",
+      "message": "Are you sure you want to reset all settings to defaults?",
+      "confirm": "Yes",
+      "cancel": "No"
+    },
+    "backup_location": "Select Backup Location",
+    "log_file": "Select Log File",
+    "confirm_rename": {
+      "title": "Confirm Rename",
+      "message": "Are you sure you want to rename {count} files?",
+      "confirm": "Yes, Rename",
+      "cancel": "Cancel"
+    }
+  },
+  "status": {
+    "renamed": "Renamed",
+    "unchanged": "Unchanged", 
+    "error": "Error",
+    "duplicate": "Duplicate",
+    "invalid": "Invalid",
+    "done": "Done",
+    "undone": "Undone",
+    "ready": "Ready",
+    "conflict": "Conflict",
+    "no_change": "No Change",
+    "extension_locked": "Extension Locked"
+  },
+  "errors": {
+    "file_not_found": "File not found: {file}",
+    "permission_denied": "Permission denied: {file}",
+    "invalid_name": "Invalid file name: {name}",
+    "duplicate_name": "Duplicate file name: {name}",
+    "backup_failed": "Backup failed: {error}",
+    "rename_failed": "Rename failed: {error}"
+  },
+  "history": {
+    "details_placeholder": "Click on a history entry to see details...",
+    "details_title": "History Details",
+    "rename_operation_details": "Rename Operation Details",
+    "status_label": "Status:",
+    "number_of_files": "Number of files:",
+    "files_renamed": "Files renamed:",
+    "full_path_details": "Full Path Details:",
+    "old_label": "Old:",
+    "new_label": "New:",
+    "file_renamed_singular": "file renamed",
+    "files_renamed_plural": "files renamed"
+  },
+  "ui": {
+    "loading": "Loading…",
+    "no_files_found": "No files found",
+    "empty_hint": "Drag & drop files or folders\n\nOr use Select Files / Browse Folder",
+    "undo_selected": "Undo Selected",
+    "validate_simulate": "Validate / Simulate",
+    "remove_selected": "Remove Selected",
+    "extension_lock_tooltip": "When enabled, file extensions (.jpg, .txt, etc.) will be automatically preserved",
+    "status_ready_tooltip": "Ready to rename",
+    "status_conflict_tooltip": "Conflict: name already exists or multiple files would have the same name",
+    "status_no_change_tooltip": "Old name matches new name, skipping",
+    "status_extension_locked_tooltip": "Extension lock is enabled - extension changes are not allowed",
+    "tooltip_prefix": "Optional: Add text before the filename",
+    "tooltip_suffix": "Optional: Add text after the filename",
+    "tooltip_base_name": "Optional: Replace the original filename with this text",
+    "tooltip_start_number": "Required: Starting number for file numbering (prevents conflicts)",
+    "tooltip_clear_search": "Clear search",
+    "language_updating": "Updating language…",
+    "language_changed": "Changed language",
+    "status_options": {
+      "ready": "Ready",
+      "conflict": "Conflict",
+      "no_change": "No Change",
+      "extension_locked": "Extension Locked"
+    },
+    "size_operators": {
+      "greater_than": "Greater Than",
+      "less_than": "Less Than",
+      "equal": "Equal"
+    }
+  },
+  "validate": {
+    "title": "Validate / Simulate",
+    "save_report": "Save Report...",
+    "save_report_title": "Save Report",
+    "report_saved": "Report saved to {path}",
+    "report_save_failed": "Failed to save report: {error}",
+    "report_title": "Simulation Report",
+    "report_total_files": "Total files to process",
+    "report_blocking_issues": "Blocking issues",
+    "report_warnings": "Warnings",
+    "report_file_details": "File Details",
+    "report_no_issues": "No issues detected - rename operation should succeed.",
+    "report_blocking_issues_found": "Blocking Issues ({count})",
+    "report_warnings_found": "Warnings ({count})",
+    "report_issue_prefix": "❌",
+    "report_warning_prefix": "⚠️",
+    "warning_target_exists": "Target already exists"
+  },
+  "help": {
+    "user_guide": {
+      "title": "User Guide",
+      "content": "Bulk File Renamer - User Guide\n\n1. ADDING FILES\n   • Click \"Browse Folder\" to add all files from a folder\n   • Click \"Select Files\" to choose individual files\n   • Files will appear in the preview table\n\n2. NAMING PATTERNS\n   • Prefix: Text added before the filename\n   • Suffix: Text added after the filename (before extension)\n   • Base Name: Replace the entire filename\n   • Start Number: Starting number for sequential naming\n   • Extension Lock: Keep original file extensions\n\n3. FILTERING FILES\n   • Extension Filter: Filter by file types (e.g., jpg,png,txt)\n   • Size Filter: Filter by file size (e.g., >1MB, <500KB)\n   • Date Filter: Filter by creation date (e.g., before 2023-01-01)\n   • Status Filter: Show only specific rename statuses\n\n4. PREVIEW AND RENAME\n   • Preview shows old name → new name\n   • Status indicates if rename will succeed\n   • Click \"Rename\" to apply changes\n   • Use \"Undo\" to reverse the last rename operation\n\n5. PROFILES\n   • Save current settings as a profile\n   • Load saved profiles for quick setup\n   • Profiles remember all settings and filters\n\n6. SETTINGS\n   • Configure application preferences\n   • Change language (English/Deutsch)\n   • Adjust preview limits and behavior\n\n7. KEYBOARD SHORTCUTS\n   • Ctrl+O: Open Folder\n   • Ctrl+Shift+O: Select Files\n   • Ctrl+S: Save Profile\n   • Ctrl+L: Load Profile\n   • Ctrl+R: Rename Files\n   • F5: Refresh Preview\n   • Ctrl+Z: Undo Last Rename\n   • Ctrl+Shift+C: Clear All Files"
+    },
+    "keyboard_shortcuts": {
+      "title": "Keyboard Shortcuts",
+      "content": "Keyboard Shortcuts\n\nFILE MENU:\nCtrl+N          New Profile\nCtrl+O          Open Folder\nCtrl+Shift+O    Select Files\nCtrl+S          Save Profile\nCtrl+L          Load Profile\nCtrl+Q          Exit\n\nEDIT MENU:\nCtrl+Z          Undo Last Rename\nCtrl+Shift+C    Clear All Files\n\nVIEW MENU:\nF5              Refresh Preview\nCtrl+F          Toggle File Count\nCtrl+H          Toggle History Panel\n\nTOOLS MENU:\nCtrl+R          Rename Files\nCtrl+V          Validate Names\nCtrl+P          Preview Changes\n\nHELP MENU:\nF1              User Guide\nCtrl+?          Keyboard Shortcuts\n\nGENERAL:\nEscape          Close Dialogs\nEnter           Confirm Actions\nTab             Navigate Fields"
+    },
+    "about": {
+      "title": "About Bulk File Renamer",
+      "content": "Bulk File Renamer\nVersion 1.0\nA powerful, cross‑platform tool to preview and rename many files safely.\n\nKey features:\n• Add folders/files and drag & drop\n• Naming: prefix, suffix, base name, start number, optional extension lock\n• Auto‑clean: remove special chars, replace spaces, convert case, remove accents\n• Filters: extensions, size (>, <, =), date (before/after), status\n• Live preview with coloring, search, sorting and lazy loading\n• Profiles: save/load settings, recent profiles with configurable limit\n• Undo last/selected operations (safe reverse order)\n• Optional backups (auto create subfolder), and operation logging\n• Export preview (CSV / JSON) and Validate / Simulate report\n• Notifications and full English/German localization\n\nCopyright © 2024 Dominic Ritzmann\nAll rights reserved.\n\nThis software is licensed under the Bulk File Renamer License.\nYou may use this software for personal and professional purposes,\nincluding selling files processed with this software.\nHowever, you may NOT modify, alter, or create derivative works of this software,\nor sell or distribute the software itself.\nSee LICENSE file for full license terms.\n\nGitHub: https://github.com/dominic-ritzmann/bulk-file-renamer"
+    }
+  }
+}

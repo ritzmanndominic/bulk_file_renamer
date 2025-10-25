@@ -1,0 +1,44 @@
+PRIVACY POLICY
+
+Effective Date: {today}
+
+This Privacy Policy explains how Bulk File Renamer ("we", "our", "us") handles personal data.
+
+1. Summary
+The Software runs locally on your device. It processes files you choose. We do not collect, transmit, or store your personal data on external servers.
+
+2. Data the Software May Access Locally
+• File metadata necessary for preview and renaming (file names, extensions, sizes, dates)
+• Paths you select for processing, backup or logging (stored locally)
+• Optional logs written to a file on your device if you enable logging
+
+3. No Telemetry by Default
+The Software does not send analytics or usage data to the author. There is no cloud service component.
+
+4. Third‑Party Services
+If you open exported files (CSV/JSON) with third‑party tools, their privacy policies apply. Operating system features (e.g., file dialogs) are provided by your OS.
+
+5. Your Controls
+• You can disable logging, delete logs, and remove backups at any time.
+• You can uninstall the Software to delete the application.
+
+6. Children
+The Software is a utility tool and not directed to children. We do not knowingly process children’s data.
+
+7. Changes
+We may update this policy. Material changes will be reflected in the version included with the Software.
+
+8. Contact
+Questions? See the project repository or store page.
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+{
+  "prefix": "",
+  "suffix": "",
+  "base_name": "save",
+  "start_num": "1",
+  "extension_lock": true,
+  "extensions": "",
+  "size_operator": "Greater Than",
+  "size_value": "",
+  "size_unit": "B",
+  "date_operator": "Before",
+  "date_value": "",
+  "status_filter": "All",
+  "sort_column": -1,
+  "sort_ascending": true,
+  "remove_special_chars": false,
+  "replace_spaces": false,
+  "convert_case": false,
+  "case_type": "Title Case",
+  "remove_accents": false,
+  "search_term": "",
+  "_metadata": {
+    "created": "2025-10-13T11:49:55.162672",
+    "version": "1.0"
+  }
+}

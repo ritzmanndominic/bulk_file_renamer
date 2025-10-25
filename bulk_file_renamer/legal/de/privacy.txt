@@ -1,0 +1,44 @@
+DATENSCHUTZERKLÄRUNG
+
+Gültig ab: {today}
+
+Diese Datenschutzerklärung erläutert, wie Bulk Datei‑Umbenenner ("wir") personenbezogene Daten verarbeitet.
+
+1. Zusammenfassung
+Die Software läuft lokal auf Ihrem Gerät. Sie verarbeitet nur Dateien, die Sie auswählen. Wir erheben, übertragen oder speichern keine personenbezogenen Daten auf externen Servern.
+
+2. Lokale Datenverarbeitung
+• Dateimetadaten für Vorschau/Umbenennen (Namen, Erweiterungen, Größen, Zeiten)
+• Pfade, die Sie für Verarbeitung, Backup oder Protokollierung wählen (lokal gespeichert)
+• Optionale Protokolle, falls Sie die Protokollierung aktivieren
+
+3. Keine Telemetrie
+Die Software sendet standardmäßig keine Nutzungsdaten an den Autor. Es gibt keine Cloud‑Komponente.
+
+4. Dienste Dritter
+Beim Öffnen exportierter Dateien (CSV/JSON) durch Drittprogramme gelten deren Richtlinien. Betriebssystemfunktionen (z. B. Dateidialoge) stellt Ihr OS bereit.
+
+5. Ihre Kontrolle
+• Sie können Protokollierung deaktivieren, Protokolle und Backups löschen.
+• Sie können die Software jederzeit deinstallieren.
+
+6. Kinder
+Die Software richtet sich nicht an Kinder. Wir verarbeiten wissentlich keine Daten von Kindern.
+
+7. Änderungen
+Wir können diese Erklärung anpassen. Wesentliche Änderungen werden in der mitgelieferten Version dokumentiert.
+
+8. Kontakt
+Fragen? Siehe Projekt‑Repository oder Store‑Seite.
+
+
+
+
+
+
+
+
+
+
+
+

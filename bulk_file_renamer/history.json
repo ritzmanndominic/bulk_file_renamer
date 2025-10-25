@@ -1,0 +1,27 @@
+[
+  {
+    "files": [
+      {
+        "action": "rename",
+        "new_path": "C:/Users/Dominic Ritzmann/OneDrive/Desktop/Python/rename_folder_img\\text_1.txt",
+        "old_path": "C:/Users/Dominic Ritzmann/OneDrive/Desktop/Python/rename_folder_img/file_1.txt"
+      }
+    ],
+    "undone": false
+  },
+  {
+    "files": [
+      {
+        "action": "rename",
+        "new_path": "C:/Users/Dominic Ritzmann/OneDrive/Desktop/Python/rename_folder_img\\img_1.bmp",
+        "old_path": "C:/Users/Dominic Ritzmann/OneDrive/Desktop/Python/rename_folder_img/image_1.bmp"
+      },
+      {
+        "action": "rename",
+        "new_path": "C:/Users/Dominic Ritzmann/OneDrive/Desktop/Python/rename_folder_img\\img_2.bmp",
+        "old_path": "C:/Users/Dominic Ritzmann/OneDrive/Desktop/Python/rename_folder_img/image_2.bmp"
+      }
+    ],
+    "undone": false
+  }
+]
