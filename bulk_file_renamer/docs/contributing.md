@@ -12,7 +12,7 @@ Thank you for your interest in supporting Bulk File Renamer! While we're not cur
 - Every contribution, no matter the size, is greatly appreciated
 - Perfect for users who want to support the project further
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dominicritzmann)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ritzmanndominic)
 
 **Why Support?**
 - **Premium Software**: Bulk File Renamer is a professional tool priced at $6.99
