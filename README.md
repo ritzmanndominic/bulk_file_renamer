@@ -30,7 +30,7 @@ pyinstaller bulk_file_renamer.spec
 ```
 The spec bundles languages and legal documents.
 
-## Safety
+## [Safety](https://github.com/ritzmanndominic/bulk_file_renamer/blob/main/bulk_file_renamer/LICENSE)
 - Keep backups. Use confirmation, validate/simulate, and backup options.
 - The app is provided "as is" without warranties (MIT License).
 
