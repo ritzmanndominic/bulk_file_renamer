@@ -24,42 +24,22 @@ python main.py
 ```
 
 ## Build with PyInstaller
-
-### Windows
+Windows/macOS (example):
 ```bash
-pyinstaller --onefile --windowed \
-    --name "Bulk File Renamer" \
-    --add-data "languages;languages" \
-    --add-data "legal;legal" \
-    --add-data "assets;assets" \
-    --icon "assets/app.ico" \
-    main.py
+pyinstaller bulk_file_renamer.spec
 ```
-
-### macOS
-```bash
-pyinstaller --onefile --windowed \
-    --name "Bulk File Renamer" \
-    --add-data "languages:languages" \
-    --add-data "legal:legal" \
-    --add-data "assets:assets" \
-    --osx-bundle-identifier "com.dominic-ritzmann.bulk-file-renamer" \
-    --icon "assets/app.icns" \
-    main.py
-```
-
-The commands bundle languages, legal documents, and assets into the executable.
+The spec bundles languages and legal documents.
 
 ## Safety
 - Keep backups. Use confirmation, validate/simulate, and backup options.
-- The app is provided "as is" without warranties.
+- The app is provided "as is" without warranties (MIT License).
 
 ## License
-Bulk File Renamer License. See LICENSE. © 2025 Dominic Ritzmann.
+MIT. See LICENSE. © Dominic Ritzmann.
 
 ## Version
+Current version 1.0
 See `app/__init__.py` for the app version.
-
 
 
 
