@@ -258,8 +258,8 @@ Include the following information:
 - **System Information**: RAM, disk space, other relevant details
 
 ### Support Channels
-- **GitHub Issues**: [Report bugs and issues](https://github.com/dominic-ritzmann/bulk-file-renamer/issues)
-- **GitHub Discussions**: [Ask questions and get help](https://github.com/dominic-ritzmann/bulk-file-renamer/discussions)
+- **GitHub Issues**: [Report bugs and issues](https://github.com/ritzmanndominic/bulk_file_renamer/issues)
+- **GitHub Discussions**: [Ask questions and get help](https://github.com/ritzmanndominic/bulk_file_renamer/discussions)
 - **Documentation**: Check other documentation files
 - **Community**: Help other users in discussions
 
@@ -281,4 +281,4 @@ Include the following information:
 
 ---
 
-**Still having issues?** Check our [FAQ](faq.md) or [report the issue](https://github.com/dominic-ritzmann/bulk-file-renamer/issues)!
+**Still having issues?** Check our [FAQ](faq.md) or [report the issue](https://github.com/ritzmanndominic/bulk_file_renamer/issues)!
