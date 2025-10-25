@@ -1,0 +1,26 @@
+# Testing requirements for bulk file renamer
+# Install with: pip install -r requirements-test.txt
+
+# Core testing framework
+pytest>=7.0.0
+pytest-qt>=4.0.0
+pytest-cov>=4.0.0
+pytest-xdist>=3.0.0
+pytest-timeout>=2.1.0
+
+# Qt testing support
+PySide6>=6.0.0
+
+# Additional testing utilities
+pytest-mock>=3.10.0
+pytest-html>=3.1.0
+pytest-json-report>=1.5.0
+
+# Code quality tools (optional)
+flake8>=5.0.0
+black>=22.0.0
+isort>=5.10.0
+mypy>=1.0.0
+
+# Performance testing (optional)
+pytest-benchmark>=4.0.0
