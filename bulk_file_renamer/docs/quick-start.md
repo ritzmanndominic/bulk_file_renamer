@@ -129,8 +129,6 @@ Result: "My Song (Remix)!.mp3" → "My_Song_Remix.mp3"
 - **Use "Validate"** to find potential issues
 - **Visit our [User Guide](user-guide.md)** for detailed features
 - **Check [Troubleshooting](troubleshooting.md)** for common issues
-- **Ask in [Discussions](https://github.com/dominic-ritzmann/bulk-file-renamer/discussions)**
+- **Ask in [Discussions](https://github.com/ritzmanndominic/bulk_file_renamer/discussions)**
 
 ---
-
-**Next Steps:** Explore the [User Guide](user-guide.md) for advanced features and detailed explanations!
