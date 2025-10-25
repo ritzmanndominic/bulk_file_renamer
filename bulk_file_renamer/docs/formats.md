@@ -255,4 +255,4 @@ For each file, you can see:
 
 ---
 
-**Need help with specific file types?** Check our [Troubleshooting Guide](troubleshooting.md) or [contact us](https://github.com/dominic-ritzmann/bulk-file-renamer/discussions)!
+**Need help with specific file types?** Check our [Troubleshooting Guide](troubleshooting.md) or [contact us](https://github.com/ritzmanndominic/bulk_file_renamer/discussions)!
