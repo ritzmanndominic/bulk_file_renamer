@@ -60,11 +60,11 @@ The spec file bundles languages and legal documents.
 - Enable **backup options** for critical operations
 - The app is provided "as is" without warranties
 
+📋 **[Terms of Use](docs/TERMS.md)** - Detailed usage terms and conditions
+
 ## 🐛 Bug Reports & Support
 
-Found a bug or have a feature request? Click [Here](https://github.com/ritzmanndominic/bulk_file_renamer/issues). 
-
-Please help us improve by:
+Found a bug or have a feature request? Please help us improve by:
 
 1. **Search existing issues** to avoid duplicates
 2. **Create a new issue** with:
@@ -74,11 +74,21 @@ Please help us improve by:
    - System information (OS, Python version)
    - Screenshots if applicable
 
-[Report a bug or request a feature](https://github.com/ritzmanndominic/bulk_file_renamer/issues)
+[**Report a Bug**](https://github.com/dominic-ritzmann/bulk-file-renamer/issues/new?template=bug_report.md) | [**Request a Feature**](https://github.com/dominic-ritzmann/bulk-file-renamer/issues/new?template=feature_request.md)
 
-## 📄 [LICENSE](LICENSE)
+## 📚 Documentation
 
-MIT License. See [LICENSE](LICENSE) file for details.
+📖 **[Complete Documentation](docs/README.md)** - Comprehensive guides and reference
+
+**Quick Links:**
+- [Installation Guide](docs/installation.md) - Setup instructions
+- [User Guide](docs/user-guide.md) - Complete feature guide  
+- [Troubleshooting](docs/troubleshooting.md) - Common issues and solutions
+- [FAQ](docs/faq.md) - Frequently asked questions
+
+## 📄 License
+
+MIT License. See [docs/LICENSE](docs/LICENSE) file for details.
 
 © 2025 Dominic Ritzmann
 
