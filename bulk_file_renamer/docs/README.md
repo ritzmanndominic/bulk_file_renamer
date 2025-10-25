@@ -62,8 +62,8 @@ Welcome to the comprehensive documentation for Bulk File Renamer!
 
 Found an error or want to improve the documentation? 
 
-1. **Report Issues**: Use the [Documentation Request](https://github.com/dominic-ritzmann/bulk-file-renamer/issues/new?template=documentation_request.md) template
-2. **Suggest Improvements**: Join our [Discussions](https://github.com/dominic-ritzmann/bulk-file-renamer/discussions)
+1. **Report Issues**: Use the [Documentation Request](https://github.com/ritzmanndominic/bulk_file_renamer/issues) template
+2. **Suggest Improvements**: Join our [Discussions](https://github.com/ritzmanndominic/bulk_file_renamer/discussions)
 
 ---
 
