@@ -81,6 +81,7 @@ Found a bug or have a feature request? Please help us improve by:
 📖 **[Complete Documentation](docs/README.md)** - Comprehensive guides and reference
 
 **Quick Links:**
+- [Quick Start Guide](docs/quick-start.md) - Get up and running in minutes
 - [Installation Guide](docs/installation.md) - Setup instructions
 - [User Guide](docs/user-guide.md) - Complete feature guide  
 - [Troubleshooting](docs/troubleshooting.md) - Common issues and solutions
