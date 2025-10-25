@@ -46,13 +46,13 @@ Welcome to the comprehensive documentation for Bulk File Renamer!
 - ✅ **Installation Guide** - Complete
 - ✅ **Quick Start Guide** - Complete
 - ✅ **User Guide** - Complete  
+- ✅ **Contributing Guide** - Complete
+- ✅ **Build Instructions** - Complete
+- ✅ **Troubleshooting** - Complete
 - ✅ **Terms of Use** - Complete
 - ✅ **License** - Complete
 - ✅ **Installer Summary** - Complete
-- 🚧 **Troubleshooting** - In Progress
 - 🚧 **FAQ** - In Progress
-- 📋 **Contributing Guide** - Planned
-- 📋 **Build Instructions** - Planned
 - 📋 **Keyboard Shortcuts** - Planned
 - 📋 **File Format Support** - Planned
 
