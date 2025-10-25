@@ -150,7 +150,7 @@ Help spread the word about Bulk File Renamer:
 - **Questions about support**: Use GitHub Discussions
 
 ### Security Issues
-- **Private reporting**: Use [GitHub Security Advisories](https://github.com/dominic-ritzmann/bulk-file-renamer/security/advisories/new)
+- **Private reporting**: Use [GitHub Security Advisories](https://github.com/ritzmanndominic/bulk_file_renamer/security)
 - **Responsible disclosure**: Please report security issues privately
 
 ## 🙏 Thank You
