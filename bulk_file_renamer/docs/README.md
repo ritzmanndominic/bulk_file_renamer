@@ -24,6 +24,9 @@ Welcome to the comprehensive documentation for Bulk File Renamer!
 - **[Keyboard Shortcuts](shortcuts.md)** - All available shortcuts
 - **[File Format Support](formats.md)** - Supported file types and formats
 
+### 💖 Support me
+- **[Support/Contribution](contributing.md)** - How to Support this project
+
 ## 🎯 Quick Navigation
 
 ### For New Users
@@ -62,7 +65,6 @@ Found an error or want to improve the documentation?
 
 1. **Report Issues**: Use the [Documentation Request](https://github.com/dominic-ritzmann/bulk-file-renamer/issues/new?template=documentation_request.md) template
 2. **Suggest Improvements**: Join our [Discussions](https://github.com/dominic-ritzmann/bulk-file-renamer/discussions)
-3. **Submit Changes**: Create a pull request with your improvements
 
 ---
 
