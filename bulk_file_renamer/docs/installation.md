@@ -45,18 +45,9 @@ This guide will help you install Bulk File Renamer on your system.
 ### Method 2: Pre-built Executables
 
 #### Windows
-1. Download the latest Windows installer from [Releases](https://github.com/dominic-ritzmann/bulk-file-renamer/releases)
+1. Download the latest Windows installer from ...
 2. Run the installer and follow the setup wizard
 3. Launch from Start Menu or Desktop shortcut
-
-#### macOS
-1. Download the latest macOS installer from [Releases](https://github.com/dominic-ritzmann/bulk-file-renamer/releases)
-2. Open the DMG file and drag the app to Applications
-3. Launch from Applications folder
-
-## 🔧 Building from Source
-
-See [Build Instructions](build.md) for detailed information on building executables.
 
 ## ❓ Troubleshooting
 
@@ -76,9 +67,7 @@ See [Build Instructions](build.md) for detailed information on building executab
 
 ### Getting Help
 
-- Check our [Troubleshooting Guide](troubleshooting.md)
-- Visit our [FAQ](faq.md)
-- Report issues on [GitHub Issues](https://github.com/dominic-ritzmann/bulk-file-renamer/issues)
+- Report issues on [[GitHub Issues]](https://github.com/ritzmanndominic/bulk_file_renamer/issues)
 
 ## ✅ Verification
 
@@ -88,7 +77,3 @@ After installation, verify everything works:
 2. Try adding a test folder with some files
 3. Test the preview functionality
 4. Verify all features are working
-
----
-
-**Next Steps:** Check out our [Quick Start Guide](quick-start.md) to get up and running!
