@@ -40,9 +40,8 @@ Welcome to the comprehensive documentation for Bulk File Renamer!
 3. See [Troubleshooting](troubleshooting.md) for common issues
 
 ### For Support
-- **Bug Reports**: Use the [GitHub Issues](https://github.com/dominic-ritzmann/bulk-file-renamer/issues)
-- **Questions**: Join our [Discussions](https://github.com/dominic-ritzmann/bulk-file-renamer/discussions)
-- **Security Issues**: Use [Private Vulnerability Reporting](https://github.com/dominic-ritzmann/bulk-file-renamer/security/advisories/new)
+- **Bug Reports**: Use the [GitHub Issues](https://github.com/ritzmanndominic/bulk_file_renamer/issues)
+- **Questions**: Join our [Discussions](https://github.com/ritzmanndominic/bulk_file_renamer/discussions)
 
 ## 📝 Documentation Status
 
