@@ -35,7 +35,7 @@ Help improve the software by reporting bugs:
    - Screenshots if applicable
    - Error messages
 
-[**Report a Bug**](https://github.com/dominic-ritzmann/bulk-file-renamer/issues/new?template=bug_report.md)
+[**Report a Bug**](https://github.com/ritzmanndominic/bulk_file_renamer/issues)
 
 ### ✨ Feature Requests
 
@@ -49,7 +49,7 @@ Suggest new features and improvements:
    - Priority level
    - Implementation ideas (if any)
 
-[**Request a Feature**](https://github.com/dominic-ritzmann/bulk-file-renamer/issues/new?template=feature_request.md)
+[**Request a Feature**](https://github.com/ritzmanndominic/bulk_file_renamer/issues)
 
 ### 📖 Documentation
 
@@ -60,7 +60,7 @@ Help improve our documentation:
 3. **Share your use cases** to help others
 4. **Translate documentation** to other languages
 
-[**Documentation Request**](https://github.com/dominic-ritzmann/bulk-file-renamer/issues/new?template=documentation_request.md)
+[**Documentation Request**](https://github.com/ritzmanndominic/bulk_file_renamer/issues)
 
 ### 💬 Community Support
 
@@ -80,7 +80,7 @@ Help make Bulk File Renamer available in more languages:
 3. **Request new language support** using the translation template
 4. **Test translations** with the application
 
-[**Translation Request**](https://github.com/dominic-ritzmann/bulk-file-renamer/issues/new?template=translation_request.md)
+[**Translation Request**](https://github.com/ritzmanndominic/bulk_file_renamer/issues)
 
 ### ⭐ Star and Share
 
@@ -141,7 +141,7 @@ Help spread the word about Bulk File Renamer:
 ## 📞 Contact
 
 ### General Questions
-- **GitHub Discussions**: [Join the conversation](https://github.com/dominic-ritzmann/bulk-file-renamer/discussions)
+- **GitHub Discussions**: [Join the conversation](https://github.com/ritzmanndominic/bulk_file_renamer/discussions)
 - **Issues**: Use appropriate issue templates
 - **Email**: Available for significant contributions
 
