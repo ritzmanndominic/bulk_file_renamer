@@ -62,7 +62,9 @@ The spec file bundles languages and legal documents.
 
 ## 🐛 Bug Reports & Support
 
-Found a bug or have a feature request? Please help us improve by:
+Found a bug or have a feature request? Click [Here](https://github.com/ritzmanndominic/bulk_file_renamer/issues). 
+
+Please help us improve by:
 
 1. **Search existing issues** to avoid duplicates
 2. **Create a new issue** with:
@@ -72,9 +74,9 @@ Found a bug or have a feature request? Please help us improve by:
    - System information (OS, Python version)
    - Screenshots if applicable
 
-[**Report a Bug**](https://github.com/dominic-ritzmann/bulk-file-renamer/issues/new?template=bug_report.md) | [**Request a Feature**](https://github.com/dominic-ritzmann/bulk-file-renamer/issues/new?template=feature_request.md)
+[Report a bug or request a feature](https://github.com/ritzmanndominic/bulk_file_renamer/issues)
 
-## 📄 License
+## 📄 [LICENSE](LICENSE)
 
 MIT License. See [LICENSE](LICENSE) file for details.
 
