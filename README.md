@@ -35,9 +35,14 @@ The spec bundles languages and legal documents.
 - The app is provided "as is" without warranties (MIT License).
 
 ## [License](https://github.com/ritzmanndominic/bulk_file_renamer/blob/main/bulk_file_renamer/LICENSE)
-MIT. See LICENSE. © Dominic Ritzmann.
+MIT. See [LICENSE](https://github.com/ritzmanndominic/bulk_file_renamer/blob/main/bulk_file_renamer/LICENSE). © Dominic Ritzmann.
+
+## [Report Issue](https://github.com/ritzmanndominic/bulk_file_renamer/issues)
+Report any issues, feature improvements or questions [here](https://github.com/ritzmanndominic/bulk_file_renamer/issues).
 
 ## Version
 Current version 1.0
 
 See `app/__init__.py` for the app version.
+
+
