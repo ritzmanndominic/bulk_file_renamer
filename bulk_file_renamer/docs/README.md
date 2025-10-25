@@ -49,12 +49,12 @@ Welcome to the comprehensive documentation for Bulk File Renamer!
 - ✅ **Contributing Guide** - Complete
 - ✅ **Build Instructions** - Complete
 - ✅ **Troubleshooting** - Complete
+- ✅ **FAQ** - Complete
+- ✅ **Keyboard Shortcuts** - Complete
+- ✅ **File Format Support** - Complete
 - ✅ **Terms of Use** - Complete
 - ✅ **License** - Complete
 - ✅ **Installer Summary** - Complete
-- 🚧 **FAQ** - In Progress
-- 📋 **Keyboard Shortcuts** - Planned
-- 📋 **File Format Support** - Planned
 
 ## 🤝 Contributing to Documentation
 

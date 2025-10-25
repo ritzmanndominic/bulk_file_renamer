@@ -85,9 +85,11 @@ Found a bug or have a feature request? Please help us improve by:
 - [Installation Guide](docs/installation.md) - Setup instructions
 - [User Guide](docs/user-guide.md) - Complete feature guide  
 - [Troubleshooting](docs/troubleshooting.md) - Common issues and solutions
+- [FAQ](docs/faq.md) - Frequently asked questions
+- [Keyboard Shortcuts](docs/shortcuts.md) - All available shortcuts
+- [File Format Support](docs/formats.md) - Supported file types
 - [Build Instructions](docs/build.md) - Build from source
 - [Contributing](docs/contributing.md) - How to support the project
-- [FAQ](docs/faq.md) - Frequently asked questions
 
 ## 📄 License
 
