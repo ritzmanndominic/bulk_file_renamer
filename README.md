@@ -38,6 +38,7 @@ The spec bundles languages and legal documents.
 MIT. See LICENSE. © Dominic Ritzmann.
 
 ## Version
+Current version 1.0
 See `app/__init__.py` for the app version.
 
 
