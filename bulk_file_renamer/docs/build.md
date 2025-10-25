@@ -318,4 +318,4 @@ FileNotFoundError: languages/en.json not found
 
 ---
 
-**Need Help?** Check our [Troubleshooting Guide](troubleshooting.md) or [GitHub Issues](https://github.com/dominic-ritzmann/bulk-file-renamer/issues)!
+**Need Help?** Check our [Troubleshooting Guide](troubleshooting.md) or [GitHub Issues](https://github.com/ritzmanndominic/bulk_file_renamer/issues)!
