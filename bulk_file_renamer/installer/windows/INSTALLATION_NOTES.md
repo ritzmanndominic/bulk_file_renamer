@@ -2,28 +2,23 @@
 
 ## Required Software
 
-### Inno Setup
-1. Download Inno Setup from: https://jrsoftware.org/isinfo.php
+### NSIS (Nullsoft Scriptable Install System)
+1. Download NSIS from: https://nsis.sourceforge.io/
 2. Install the software (default installation is fine)
-3. Make sure `iscc.exe` is in your PATH, or use the full path to the executable
+3. Make sure `makensis.exe` is in your PATH, or use the full path to the executable
 
 ### Alternative: Use Full Path
-If Inno Setup is not in your PATH, you can modify the build scripts to use the full path:
+If NSIS is not in your PATH, you can modify the build scripts to use the full path:
 
-**For build_installer.bat:**
-```batch
-"C:\Program Files (x86)\Inno Setup 6\iscc.exe" installer\BulkFileRenamer.iss
-```
-
-**For build_installer.ps1:**
+**For build_nsis_installer.ps1:**
 ```powershell
-& "C:\Program Files (x86)\Inno Setup 6\iscc.exe" installer\BulkFileRenamer.iss
+& "C:\Program Files (x86)\NSIS\makensis.exe" BulkFileRenamer.nsi
 ```
 
 ## Testing the Installer
 
-1. Build the installer using one of the build scripts
-2. Run the generated installer: `installer\Output\BulkFileRenamer_Windows_Installer.exe`
+1. Build the installer using the build script: `.\build_nsis_installer.ps1`
+2. Run the generated installer: `installer\windows\BulkFileRenamer_Windows_Installer.exe`
 3. Test the installation process:
    - Language selection
    - Theme selection
@@ -35,7 +30,7 @@ If Inno Setup is not in your PATH, you can modify the build scripts to use the f
 ## Troubleshooting
 
 ### Common Issues:
-- **"iscc not found"**: Install Inno Setup and ensure it's in PATH
+- **"makensis not found"**: Install NSIS and ensure it's in PATH
 - **"Source file not found"**: Ensure the dist directory exists with the built application
 - **"Icon file not found"**: Ensure assets/app.ico exists
 - **"License file not found"**: Ensure legal/en/eula.txt exists

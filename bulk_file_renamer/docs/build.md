@@ -144,14 +144,6 @@ cd installer/windows
 makensis BulkFileRenamer.nsi
 ```
 
-#### Inno Setup Installer
-```bash
-# Navigate to installer directory
-cd installer/windows
-
-# Build Inno Setup installer (requires Inno Setup)
-iscc BulkFileRenamer.iss
-```
 
 ### macOS Installers
 
