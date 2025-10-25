@@ -215,8 +215,8 @@ Common questions and answers about Bulk File Renamer.
 ### Q: Where can I get help?
 **A:** Multiple support channels:
 - **Documentation**: Check [User Guide](user-guide.md) and [Troubleshooting](troubleshooting.md)
-- **GitHub Issues**: [Report bugs](https://github.com/dominic-ritzmann/bulk-file-renamer/issues)
-- **GitHub Discussions**: [Ask questions](https://github.com/dominic-ritzmann/bulk-file-renamer/discussions)
+- **GitHub Issues**: [Report bugs](https://github.com/ritzmanndominic/bulk_file_renamer/issues)
+- **GitHub Discussions**: [Ask questions](https://github.com/ritzmanndominic/bulk_file_renamer/discussions)
 - **Email**: Contact us for direct support
 
 ### Q: How quickly do you respond to support requests?
@@ -275,4 +275,4 @@ Common questions and answers about Bulk File Renamer.
 
 ---
 
-**Still have questions?** Check our [Troubleshooting Guide](troubleshooting.md) or [contact us](https://github.com/dominic-ritzmann/bulk-file-renamer/discussions)!
+**Still have questions?** Check our [Troubleshooting Guide](troubleshooting.md) or [contact us](https://github.com/ritzmanndominic/bulk_file_renamer/discussions)!
