@@ -239,6 +239,9 @@ Common questions and answers about Bulk File Renamer.
 - **Transparency**: See exactly how the software works
 - **Security**: Open source for security transparency
 - **Learning**: Study the code for educational purposes
+- 
+### Q: How can I further support this project?
+**A:** You can  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ritzmanndominic) 💖
 
 ## 🔄 Updates and Development
 
