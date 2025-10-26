@@ -6,6 +6,9 @@ A cross‑platform GUI tool to preview and safely rename many files with powerfu
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/dominic-ritzmann/bulk-file-renamer)
 
+## Support me
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ritzmanndominic)
+
 ## ✨ Features
 
 - **📁 Easy File Management**: Add folders/files and drag & drop support
